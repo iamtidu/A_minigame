@@ -6,3 +6,4 @@ Learning objectives
 Experience GitHub Codespaces as a development environment.
 Develop input and output routines in a Python console application.
 Use GitHub Copilot as an assistant.
+done
